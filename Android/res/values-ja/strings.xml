@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pick_chooser">画像を選択するアプリケーションを選んで下さい</string>
+    <string name="crop_chooser">画像を切り取るアプリケーションを選んで下さい</string>
+    <string name="capture_chooser">撮影するアプリケーションを選んで下さい</string>
+
+</resources>
